@@ -1,0 +1,2 @@
+numpy>=1.24
+# LLM 可选: DeepSeek/Ollama 走 OpenAI 兼容协议, 用标准库 urllib 即可, 无需额外依赖
